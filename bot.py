@@ -27,7 +27,7 @@
 import os
 
 INPUT_FILE = "wordlist.txt"
-OUTPUT_LEE_FILE = "lee_wordlist.txt"
+OUTPUT_LEE_FILE = "lee_list.txt"
 OUTPUT_CHANGES_FILE = "lee_changes.txt"
 
 
@@ -98,3 +98,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
